@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[8481,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+3:I[3806,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+4:I[1361,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+5:I[3300,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+6:I[4076,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+7:I[3986,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+8:I[2539,["367","static/chunks/b536a0f1-acfd40803ddca209.js","831","static/chunks/bd904a5c-42a9954c5013e3e7.js","481","static/chunks/481-3ba69b274e095bba.js","974","static/chunks/app/page-3c955ac1c0bbe1dc.js"],"default"]
+9:I[484,[],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}],["$","$L8",null,{}]],null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8vgqigg0KFlUGPvIHfCfQ"}
+b:null
